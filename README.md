@@ -1,6 +1,8 @@
 # Seedbox-technical-test
   My submission to the Seedbox technical test
 
+I have only answered the questions in the markdown, the full reasoning and results are in the .pynb file
+
 - What is the aproximate probability distribution between the test group and the control group
   -  [image](https://user-images.githubusercontent.com/34102268/178265527-f12af520-7fee-45a1-9ebd-016996c1100d.png)
   - ![image](https://user-images.githubusercontent.com/34102268/178265694-f1bc1d24-82d3-4b24-be51-fd72227bc193.png)
